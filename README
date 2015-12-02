@@ -1,0 +1,15 @@
+Name: Justin Martin
+Date: 12/1/2015
+
+Prerequisites: You must have JDK installed on your machine and ensure that your path points to the javac and java executables.  I
+	       am using JDK 1.6 on Mac OS X (Mavericks) in the bash shell.
+
+Compilation: Type 'javac AdditivePrimes.java' and hit enter.
+
+Run Instructions: Usage is 'java AdditivePrimes <integer>'
+
+Examples:
+(1) java AdditivePrimes 5
+(2) java AdditivePrimes 10
+(3) java AdditivePrimes 17
+(4) java AdditivePrimes 20
